@@ -1,0 +1,6 @@
+framework module Pods_CitizenTests {
+  umbrella header "Pods-CitizenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
